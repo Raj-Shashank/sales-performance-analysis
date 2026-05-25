@@ -89,7 +89,7 @@ sales-performance-analysis/
 ├── README.md
 🚀 Getting Started
 Clone Repository
-git clone https://github.com/your-username/sales-performance-analysis.git
+git clone https://github.com/Raj-Shashank/sales-performance-analysis
 cd sales-performance-analysis
 Run Python Notebook
 
